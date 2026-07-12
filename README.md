@@ -4,7 +4,7 @@ This is a collection of my personal solutions and explanations for various CTF c
 
 ---
 
-## 🎯 Goals
+## Goals
 
 - Improve and document my cybersecurity skills.
 - Help other learners and CTF players.
@@ -12,11 +12,11 @@ This is a collection of my personal solutions and explanations for various CTF c
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 These write-ups are for educational purposes only.  
 Do **not** use the techniques described here on systems you do not own or have explicit permission to test.
 
 ---
 
-**Author:** MinousE3  
+**Author:** minouse3
